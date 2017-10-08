@@ -16,7 +16,7 @@ export class ARView {
 
   wikitudePlugin: any;
   requiredFeatures = [ "2d_tracking", "geo" ];
-  arExperienceUrl = "www/assets/experience/world/secret-shop/index.html";
+  arExperienceUrl = "www/assets/experience/world/property-search/index.html";
   startupConfiguration = {
     "camera_position": "back"
   };
